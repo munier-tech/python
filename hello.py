@@ -1,0 +1,6 @@
+
+
+name="munir";
+print(name)
+
+
